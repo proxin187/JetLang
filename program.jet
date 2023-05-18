@@ -1,0 +1,18 @@
+
+
+fn test(int hello): int {
+    if hello == 0 {
+        print("hello is not equal to zero")
+    }
+    return 69
+}
+
+return 34 + 35
+
+return test(69, 420)
+
+let number: int = 29
+
+test(0)
+
+
